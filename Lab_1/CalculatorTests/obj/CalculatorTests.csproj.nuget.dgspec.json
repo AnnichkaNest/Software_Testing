@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programming\\Software_Testing\\Lab_1\\CalculatorTests\\CalculatorTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Programming\\Software_Testing\\Lab_1\\CalculatorTests\\CalculatorTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Software_Testing\\Lab_1\\CalculatorTests\\CalculatorTests.csproj",
+        "projectName": "CalculatorTests",
+        "projectPath": "D:\\Programming\\Software_Testing\\Lab_1\\CalculatorTests\\CalculatorTests.csproj",
+        "packagesPath": "C:\\Users\\annah\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Software_Testing\\Lab_1\\CalculatorTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\annah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\AnalizerClassLibrary\\AnalizerClassLibrary.csproj": {
+                "projectPath": "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\AnalizerClassLibrary\\AnalizerClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\AnalizerClassLibrary\\AnalizerClassLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\AnalizerClassLibrary\\AnalizerClassLibrary.csproj",
+        "projectName": "AnalizerClassLibrary",
+        "projectPath": "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\AnalizerClassLibrary\\AnalizerClassLibrary.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\CalcClassBr\\CalcClassBr.csproj": {
+                "projectPath": "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\CalcClassBr\\CalcClassBr.csproj"
+              },
+              "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\ErrorLibrary\\ErrorLibrary.csproj": {
+                "projectPath": "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\ErrorLibrary\\ErrorLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\CalcClassBr\\CalcClassBr.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\CalcClassBr\\CalcClassBr.csproj",
+        "projectName": "CalcClassBr",
+        "projectPath": "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\CalcClassBr\\CalcClassBr.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\ErrorLibrary\\ErrorLibrary.csproj": {
+                "projectPath": "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\ErrorLibrary\\ErrorLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\ErrorLibrary\\ErrorLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\ErrorLibrary\\ErrorLibrary.csproj",
+        "projectName": "ErrorLibrary",
+        "projectPath": "D:\\Programming\\Software_Testing\\Lab_1\\Calculator\\ErrorLibrary\\ErrorLibrary.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

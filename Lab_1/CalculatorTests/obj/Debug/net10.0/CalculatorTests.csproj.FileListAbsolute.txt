@@ -1,0 +1,7 @@
+D:\Programming\Software_Testing\Lab_1\CalculatorTests\obj\Debug\net10.0\CalculatorTests.csproj.AssemblyReference.cache
+D:\Programming\Software_Testing\Lab_1\CalculatorTests\obj\Debug\net10.0\CalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Software_Testing\Lab_1\CalculatorTests\obj\Debug\net10.0\CalculatorTests.gentestingplatformentrypointinputcache.cache
+D:\Programming\Software_Testing\Lab_1\CalculatorTests\obj\Debug\net10.0\CalculatorTests.genautoregisteredextensionsinputcache.cache
+D:\Programming\Software_Testing\Lab_1\CalculatorTests\obj\Debug\net10.0\CalculatorTests.AssemblyInfoInputs.cache
+D:\Programming\Software_Testing\Lab_1\CalculatorTests\obj\Debug\net10.0\CalculatorTests.AssemblyInfo.cs
+D:\Programming\Software_Testing\Lab_1\CalculatorTests\obj\Debug\net10.0\CalculatorTests.csproj.CoreCompileInputs.cache
